@@ -35,6 +35,21 @@
 							par&aacute;metro id
 						</li>
 						
+						
+						<li class="list-group-item">@PathVariable ==> Llamada a
+							p&aacute;gina de <a href="<c:url value="/ejercicio3/David" />"
+							class="alert-link">ejercicio3.jsp</a> pasando 1 variable
+						</li>
+						
+						
+						<li class="list-group-item">@PathVariable ==> Llamada a
+							p&aacute;gina de <a
+							href="<c:url value="/ejercicio3/caso2/David/Gomez/Guzman" />"
+							class="alert-link">ejercicio3.jsp</a> [Caso 2] pasando 3 variable
+						</li>
+						
+						
+						
 						</ul>
 					</div>
 				</div>
