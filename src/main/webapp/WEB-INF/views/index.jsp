@@ -48,7 +48,10 @@
 							class="alert-link">ejercicio3.jsp</a> [Caso 2] pasando 3 variable
 						</li>
 						
-						
+						<li class="list-group-item">Uso de formulario <a
+							href="<c:url value="/usuario" /> "
+							class="alert-link">usuario/formulario.jsp</a>
+						</li>
 						
 						</ul>
 					</div>
