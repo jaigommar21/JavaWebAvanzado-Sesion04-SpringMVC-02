@@ -1,4 +1,4 @@
-package com.tecsup.javawebavanzado.controller;
+package com.tecsup.javawebavanzado.sesion04.controller;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.tecsup.javawebavanzado.controller;
+package com.tecsup.javawebavanzado.sesion04.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
