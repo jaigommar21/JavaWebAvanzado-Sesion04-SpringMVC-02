@@ -23,6 +23,12 @@
 								p&aacute;gina de <a href="<c:url value="/ejercicio0" />"
 								class="alert-link">ejercicio0.jsp</a>
 							</li>
+							<li class="list-group-item">@RequestMapping ==> Llamada a
+								p&aacute;gina de <a href="<c:url value="/ejercicio1" />"
+								class="alert-link">ejercicio1.jsp</a>
+							</li>
+
+
 						</ul>
 					</div>
 				</div>

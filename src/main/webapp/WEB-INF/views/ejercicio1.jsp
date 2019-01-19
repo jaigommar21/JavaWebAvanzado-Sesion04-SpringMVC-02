@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Ejercicio 0</title>
+<title>Ejercicio 1</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,15 +15,11 @@
 </head>
 <body>
 
-	<h6>Lima, ${fecha}</h6>
+	<h6>Ejercicio 1</h6>
 
-	<form action="ejercicio0" method="post">
-		Usuario: <input type="text" name="idUsuario" value="" /> <br />
-		Clave: <input type="password" name="clave" value="" /><br /> <input
-			type="submit" value="Iniciar sesión" />
-	</form>
+	Nombre: ${nombre}
+	<br /> Paterno: ${paterno}
 
-	<h6>${mensaje}</h6>
 
 </body>
 </html>
