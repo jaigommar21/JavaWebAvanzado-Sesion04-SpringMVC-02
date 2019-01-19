@@ -28,7 +28,13 @@
 								class="alert-link">ejercicio1.jsp</a>
 							</li>
 
-
+						<li class="list-group-item">@RequestMapping ==> Llamada a
+							p&aacute;gina de <a
+							href="<c:url value="/ejercicio2/caso3?id=6" />"
+							class="alert-link">ejercicio2.jsp</a> [Caso 3] con un
+							par&aacute;metro id
+						</li>
+						
 						</ul>
 					</div>
 				</div>
