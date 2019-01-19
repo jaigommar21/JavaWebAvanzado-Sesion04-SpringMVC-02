@@ -14,22 +14,20 @@
 <body>
 	<div class="container">
 		<div class="container-fluid">
-		<div class="row-fluid">
-			<div class="col-md-8">
-				<div class="alert alert-primary" role="alert">
-					<h3>Tipos de mapeos</h3>
-					<ul class="list-group">
-						<li class="list-group-item">@GetRequest ==> Llamada a
-							p&aacute;gina de <a href="<c:url value="/ejercicio0" />"
-							class="alert-link">ejercicio0.jsp</a>
-						</li>
-					</ul>
+			<div class="row-fluid">
+				<div class="col-md-8">
+					<div class="alert alert-primary" role="alert">
+						<h3>Tipos de mapeos</h3>
+						<ul class="list-group">
+							<li class="list-group-item">@GetRequest ==> Llamada a
+								p&aacute;gina de <a href="<c:url value="/ejercicio0" />"
+								class="alert-link">ejercicio0.jsp</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-	
-	
 	</div>
 </body>
 </html>
